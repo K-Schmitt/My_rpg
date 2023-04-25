@@ -1,0 +1,8 @@
+./assets/dialogue/barman.png
+./assets/fonts/comic.ttf
+./assets/song/Archi.ogg
+20
+narrateur
+
+Vous avez gagne 
+//

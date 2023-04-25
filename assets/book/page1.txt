@@ -1,0 +1,21 @@
+
+
+
+Guide des touches:
+
+Vous pouvez a tout moment
+changer les touches via
+les options.
+
+Les differentes touches
+assignables vous permettent
+de vous deplacer, d'interagir
+avec l'environnement,
+d'ouvrir votre inventaire,
+ou bien meme d'ouvrir
+ce livre.
+
+Pour consulter vos touches,
+vous pouvez a tout moment
+vous rendre dans les options
+de touches.

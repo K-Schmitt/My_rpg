@@ -1,0 +1,19 @@
+./assets/dialogue/cowboy.png
+./assets/fonts/comic.ttf
+./assets/song/lucas.ogg
+20
+Cowboy
+
+Salut Etrangere, j'ai besoin d'aide 
+je cherche une personne capable de me venir\en aide pour terrasser tous ces monstres 
+si tu arrives a tuer ces 4 araignees\je te donnerais mon revolver 
+//
+
+Alors tu vas les tuer ces maudites bestioles ? 
+//
+
+Felicitation, tu es une vraie guerriere\tiens prend mon arme 
+//
+
+Tu es vraiment une Formidable heroine 
+//

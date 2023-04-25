@@ -1,0 +1,7 @@
+Controles:
+
+Interactions: E
+Deplacements: ^ v > <
+Inventaire: R
+Menu: Echap
+Livre: B

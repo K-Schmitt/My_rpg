@@ -1,0 +1,27 @@
+./assets/dialogue/pancarte.png
+./assets/fonts/comic.ttf
+./assets/song/panneau.ogg
+20
+Panneau
+
+Maison de Solange 
+//
+Ne pas toucher au chateau de sable 
+//
+Prenez gardent voyageurs !\
+//
+
+Au bout de ce couloir vous attend\un lieu de repos.\Mais meme le calme peut etre trompeur... 
+//
+
+Pour abaisser les piques il vous faudra\chercher les boutons caches dans cette piece 
+//
+
+Qui a bien pu casser ces poteaux ? 
+//
+
+L'epee legendaire choisit son proprietaire\Peut-etre vous choisira-t-elle ? 
+//
+
+Encore des piques...\et encore des boutons... 
+//

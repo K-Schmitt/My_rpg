@@ -1,0 +1,9 @@
+./assets/dialogue/darksquel.png
+./assets/fonts/comic.ttf
+./assets/song/Archi.ogg
+20
+Sergant Squelette
+
+MOUAHAHAH, ce petit rigolo ne faisait pas\le poids face a moi 
+mes assistants l'ont emmene chez le boss\dans le volcan 
+//

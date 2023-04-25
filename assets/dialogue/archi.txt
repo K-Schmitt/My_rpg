@@ -1,0 +1,21 @@
+./assets/dialogue/archi.png
+./assets/fonts/comic.ttf
+./assets/song/Archi.ogg
+20
+Archi
+
+AAAAAARGH\Au secours a l'aide !!! 
+//
+
+
+Il faut a tout prix que tu ailles le delivrer\Mais je n'ai malheureusement rien de tres utile\a te donner, a part ce bout de bois 
+Peut-etre pourras-tu trouver une meilleure arme\sur la route, mais en attendant, tu vas devoir\te debrouiller avec ca 
+Avant de partir, tu peux t'entrainer contre cette\araignee. Ah, et tiens, prends cette potion,\elle te guerira si tu en as besoin 
+Ah oui, j'ai failli oublier, je te donne ce livre,\n'hesite pas a le consulter si besoin est\il te suffit d'appuyer sur "B" 
+//
+
+Que fais-tu encore ici Solange\tu dois a tout prix aller le delivrer 
+//
+
+Felicitations sans toi on ne sait pas ce que Bob\serait devenu 
+//

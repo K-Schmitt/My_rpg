@@ -1,0 +1,7 @@
+./assets/dialogue/archi.png
+./assets/fonts/comic.ttf
+./assets/song/Archi.ogg
+20
+
+Ah Solange j'ai une tres mauvaise nouvelle\Notre nouvel amis Bob euh... Kylian \viens tout juste de se faire enlever 
+//

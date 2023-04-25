@@ -1,0 +1,24 @@
+./assets/dialogue/barman.png
+./assets/fonts/comic.ttf
+./assets/song/lucas.ogg
+20
+barman
+
+Bonjour jeune voyageuse\Que puis-je te servir ? 
+//
+
+Gah... Je t'ai sous-estimee... Tu le paieras... 
+//
+
+Ah, ma chere enfant, nous voici enfin arrives au\moment fatidique, ou tout bascule et ou\les masques tombent. 
+Je suis sur que tu es surprise, n'est-ce pas ?\Eh oui, c'est moi, ton cher barman qui t'a servi\des cocktails tout au long de cette aventure, 
+et je suis egalement le grand mechant\qui a enleve notre heros. 
+Tu te demandes surement pourquoi j'ai fait\tout cela. Eh bien, c'est tres simple. 
+J'etais fatigue de voir le heros sauver le monde\encore et encore. Quelle monotonie ! 
+Alors, j'ai decide de pimenter un peu les choses\en l'enlevant et en te mettant au\defi de le retrouver. 
+J'avais besoin de savoir si tu avais herite\de mes talents exceptionnels, et je dois avouer\que tu m'as impressionne. Mais maintenant, 
+il est temps de mettre fin a cette mascarade\et de te reveler mon veritable visage. 
+Oh, je sais ce que tu penses.\"Papa, comment peux-tu etre aussi mechant ?"\Eh bien, ma chere, 
+il faut bien quelqu'un pour jouer le role du\mechant dans cette histoire, sinon ca serait\d'un ennui mortel ! 
+Je suis fier de toi, ma fille, mais je ne\peux pas te laisser gagner si facilement.\C'est le moment de verite. Alors, prepare-toi ! 
+//

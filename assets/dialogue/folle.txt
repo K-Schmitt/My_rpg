@@ -1,0 +1,11 @@
+./assets/dialogue/folle.png
+./assets/fonts/comic.ttf
+./assets/song/folle.ogg
+20
+Folle aux chat
+
+J'ai perdu mes chats, tu les aurais pas vus ?\Je peux te payer si tu me les ramenes 
+//
+
+Tu as des chats a me donner ? 
+//

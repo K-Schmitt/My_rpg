@@ -1,0 +1,25 @@
+./assets/dialogue/lucas.png
+./assets/fonts/comic.ttf
+./assets/song/lucas.ogg
+20
+Lucas
+
+Salut Solange, tu veux une ficelle vosgienne ? 
+//
+
+Je suis lucas et j'aime bien manger\tu veux venir a la salle ? 
+//
+
+Laisse-moi tranquille solange\Tu ne vois donc pas que je travaille 
+//
+
+Je suis fatigue laisse moi tranquille\j'ai trop mange 
+//
+
+Je reviens de la salle, faut que\j'aille au WC 
+//
+
+Je reviens de chez Arthur, il m'a encore\viree a 3h du matin 
+mais sur le chemin j'ai trouve ce sort de\feu, j'en ai aucune utilite donc 
+je te le donne, elle te permet de lancer\des boules de feu et marcher sur la lave 
+//
