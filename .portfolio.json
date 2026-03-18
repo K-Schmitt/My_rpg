@@ -1,0 +1,7 @@
+{
+  "title": "My RPG",
+  "description": "A 2D RPG game built with C and CSFML.",
+  "image": "Preview.png",
+  "status": "completed",
+  "language": "C"
+}
